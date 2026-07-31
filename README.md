@@ -43,3 +43,4 @@ This project will use Python 3.11 or newer. Dependency and environment instructi
 
 - [Project charter](docs/project_charter.md)
 - [Initial data plan](docs/data_plan.md)
+- [Winner model v0.1 brief](docs/winner_model_v0_1_brief.md)
